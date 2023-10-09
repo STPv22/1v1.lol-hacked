@@ -1,4 +1,4 @@
-# unblocked-games-6nine
+# hacked 1v1.lol
 trying to make a Haked client, WIP.
 
 **How TO USE**
