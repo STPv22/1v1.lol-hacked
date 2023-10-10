@@ -9,7 +9,6 @@ H to enable GUI
 T to toggle softaim (aimbot)
 
 
-in the code you may see aim and blink. they do not work. 
-ESP best works in 1v1, b/c in Zone Duos it creates weird shapes. 
-I'll find better hacks soon, if anyone can find better ones, create an issue and send the link. (prefferably a repository)
+ESP best works in 1v1, b/c in Zone Duos it creates weird shapes. I am currently looking for rapid fire.
+if you find the script for it on greasyfork or smh, 
 
