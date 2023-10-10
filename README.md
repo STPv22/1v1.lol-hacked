@@ -10,5 +10,5 @@ T to toggle softaim (aimbot)
 
 
 ESP best works in 1v1, b/c in Zone Duos it creates weird shapes. I am currently looking for rapid fire.
-if you find the script for it on greasyfork or smh, 
+if you find the script for it on greasyfork or smh, create a repo and send me the link.
 
